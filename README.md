@@ -184,7 +184,7 @@ These describe the rationale and insights behind each visualization tab.
 
 **Sandeep Kang**  
 IUPUI – Global Power Plant Visualization Project  
-Course: [Your course name, if applicable]
+Course: [Visualization Design, Analysis, & Evaluation INFO-H 517 (22685), Fall 2025]
 
 ---
 
